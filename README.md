@@ -1,3 +1,3 @@
 Made to avoid surveillance and ensure secure transmission of messages on apps like Discord.
 
-Windows (x64) executable located at `dist/Encryptor.exe`. No other distributions currently available.
+Windows (x86 and x64) executables are located on [the releases page](https://github.com/egnotech/Lightweight-2-way-message-encrypting-program/releases). No other distributions currently available.
