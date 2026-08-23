@@ -1,3 +1,7 @@
+# Lightweight 2-way message encryption program
+# By egnotech
+# Uses X25519 encryption for key exchange, followed by AEAD (ChaCha20-Poly1305) symmetric encryption for message encrypting
+
 import time
 import os
 import base64
